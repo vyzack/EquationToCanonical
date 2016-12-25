@@ -1,0 +1,5 @@
+g:\users\appuser\documents\visual studio 2013\Projects\EquationToCanonical\EquationToCanonical\bin\Debug\EquationToCanonical.exe
+g:\users\appuser\documents\visual studio 2013\Projects\EquationToCanonical\EquationToCanonical\bin\Debug\EquationToCanonical.pdb
+g:\users\appuser\documents\visual studio 2013\Projects\EquationToCanonical\EquationToCanonical\obj\Debug\EquationToCanonical.csprojResolveAssemblyReference.cache
+g:\users\appuser\documents\visual studio 2013\Projects\EquationToCanonical\EquationToCanonical\obj\Debug\EquationToCanonical.exe
+g:\users\appuser\documents\visual studio 2013\Projects\EquationToCanonical\EquationToCanonical\obj\Debug\EquationToCanonical.pdb
